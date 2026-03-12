@@ -14,7 +14,7 @@ Database integration
 
 Entity Framework Core ORM
 
-It is designed as a beginner-to-intermediate level backend development project using modern .NET technologies.
+
 
 Features:
 Add new students,View student list,Edit student details,Delete student records,Database integration with SQL Server,Clean MVC architecture
