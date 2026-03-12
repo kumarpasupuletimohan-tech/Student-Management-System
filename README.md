@@ -20,13 +20,13 @@ Features:
 Add new students,View student list,Edit student details,Delete student records,Database integration with SQL Server,Clean MVC architecture
 
 Technologies Used :
-Technology	                         Purpose
-C#	                                 Backend programming
-ASP.NET Core MVC	                   Web framework
-Entity Framework Core              	ORM for database interaction
-Microsoft SQL Server	               Database
-HTML / CSS / Razor	                 Frontend views
-Microsoft Visual Studio            	Development environment
+                        
+C#	                                 (Backend programming),
+ASP.NET Core MVC	                   (Web framework),
+Entity Framework Core              	(ORM for database interaction),
+Microsoft SQL Server	               (Database),
+HTML / CSS / Razor	                 (Frontend views),
+Microsoft Visual Studio (Development environment)
 
 
 <img width="2120" height="2290" alt="Interface of Student Management System" src="https://github.com/user-attachments/assets/fa7d612b-0ecd-4189-8a77-c50284b9a6c0" />
